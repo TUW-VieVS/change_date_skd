@@ -1,0 +1,14 @@
+anybadge==1.7.0
+astropy==4.2.1
+attrs==21.2.0
+coverage==5.5
+iniconfig==1.1.1
+numpy==1.20.3
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pyerfa==2.0.0
+pyparsing==2.4.7
+pytest==6.2.4
+pytest-cov==2.12.1
+toml==0.10.2

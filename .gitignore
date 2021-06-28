@@ -1,0 +1,8 @@
+__pycache__
+venv/
+.coverage
+coverage.xml
+htmlcov/
+junit/
+*.svg
+report.txt
