@@ -30,7 +30,6 @@ jobs:
       - name: Test with pytest
         run: |
           pytest --cov > report_${{ matrix.python-version }}.txt
-          python badges.py
       - uses: actions/upload-artifact@v2
         with:
           name: pytest report
